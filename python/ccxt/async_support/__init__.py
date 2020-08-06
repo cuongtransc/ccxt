@@ -156,7 +156,6 @@ from ccxt.async_support.okex import okex                                  # noqa
 from ccxt.async_support.okex3 import okex3                                # noqa: F401
 from ccxt.async_support.paymium import paymium                            # noqa: F401
 from ccxt.async_support.poloniex import poloniex                          # noqa: F401
-from ccxt.async_support.probit import probit                              # noqa: F401
 from ccxt.async_support.rightbtc import rightbtc                          # noqa: F401
 from ccxt.async_support.southxchange import southxchange                  # noqa: F401
 from ccxt.async_support.stronghold import stronghold                      # noqa: F401
@@ -284,7 +283,6 @@ exchanges = [
     'okex3',
     'paymium',
     'poloniex',
-    'probit',
     'rightbtc',
     'southxchange',
     'stronghold',
