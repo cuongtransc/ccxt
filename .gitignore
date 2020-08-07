@@ -32,3 +32,10 @@ python/keys.json
 python/LICENSE.txt
 .env
 *.swp
+
+# Ignore for python
+.venv
+.env.python
+
+# Ignore secret
+*_secret*
